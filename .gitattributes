@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Assets/Visualisation.unity filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/Visualisation.unity filter=lfs diff=lfs merge=lfs -text
